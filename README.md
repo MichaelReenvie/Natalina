@@ -6,6 +6,4 @@ Fiquem à vontade para abrir o site e ler o texto de Natal de 2024, preparado co
 
 ![react](https://github.com/user-attachments/assets/19a00490-bb86-4441-bef4-0038c6663bef)
 
-*Site ➨*  [Link](https://linktreegithub.netlify.app/)
-
-
+*Site ➨*  [Link](https://natalina-one.vercel.app/)
